@@ -10,3 +10,4 @@ byte 8: cant_keep_secrets_from_you
 byte 9: filepaths_are_handy
 byte 10: Althea
 byte 11: Peta
+byte 12: which_command_is_the_best
